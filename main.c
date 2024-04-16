@@ -1,9 +1,7 @@
 #include<stdio.h>
 
 int main(){
-
-	printf("i want sushi");
-
+	
+	printf("i want pizza");
 	return 0;
 }
-
