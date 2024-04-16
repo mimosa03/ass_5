@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main(){
-	
-	printf("i want latte");
+
+	printf("i want cake");
 	return 0;
 }
 
