@@ -2,7 +2,8 @@
 
 int main(){
 
-	printf("i want cake");
+	printf("i want sushi");
+
 	return 0;
 }
 
